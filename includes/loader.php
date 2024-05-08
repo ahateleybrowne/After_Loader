@@ -9,7 +9,7 @@
  * @package    after-loader
  * @author     Andrew Hateley-Browne <andrew@afterword.com.au>
  */
-namespace Afterword\Loader_Plugin;
+namespace Afterword;
 
 class Loader {
 	
